@@ -43,7 +43,6 @@
     </style>
 </head>
 <body>
-    <h1>Predio Legue Cup</h1>
     <div class="premio">
         <div class="icono">🏆</div>
         <h2>1er Puesto</h2>
